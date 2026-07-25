@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneethsreenivas/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneethsreenivas/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneethsreenivas/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneethsreenivas/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneethsreenivas/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/puneethsreenivas/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/puneethsreenivas/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/puneethsreenivas/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/puneethsreenivas/leetcode/tree/master/0133-clone-graph) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
