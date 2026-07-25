@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/puneethsreenivas/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneethsreenivas/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/puneethsreenivas/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/puneethsreenivas/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
