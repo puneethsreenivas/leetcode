@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/puneethsreenivas/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneethsreenivas/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/puneethsreenivas/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -241,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/puneethsreenivas/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/puneethsreenivas/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/puneethsreenivas/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/puneethsreenivas/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
