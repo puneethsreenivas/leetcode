@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneethsreenivas/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/puneethsreenivas/leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneethsreenivas/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/puneethsreenivas/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/puneethsreenivas/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/puneethsreenivas/leetcode/tree/master/0733-flood-fill) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/puneethsreenivas/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneethsreenivas/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/puneethsreenivas/leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/0542-01-matrix) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/puneethsreenivas/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
