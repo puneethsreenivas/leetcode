@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/puneethsreenivas/leetcode/tree/master/0133-clone-graph) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puneethsreenivas/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/puneethsreenivas/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/puneethsreenivas/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/puneethsreenivas/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneethsreenivas/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/puneethsreenivas/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/puneethsreenivas/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Trie
 |  |
 | ------- |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/puneethsreenivas/leetcode/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/puneethsreenivas/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/puneethsreenivas/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
